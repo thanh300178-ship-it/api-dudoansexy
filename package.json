@@ -1,0 +1,14 @@
+{
+  "name": "bcr06-api",
+  "version": "1.0.0",
+  "main": "bcr06.js",
+  "scripts": {
+    "start": "node bcr06.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
